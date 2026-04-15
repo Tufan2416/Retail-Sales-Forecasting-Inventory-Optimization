@@ -321,10 +321,10 @@ After building this project, you will understand:
 
 ## 👤 Author
 
-**Your Name**  
-📧 youremail@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🐙 [GitHub](https://github.com/yourusername)
+**Tufan Chowdhury**  
+📧 chowdhuryrudra449@gmail.com  
+🔗 [LinkedIn]((https://www.linkedin.com/in/tufan-chowdhury06/))  
+🐙 [GitHub](https://github.com/tufan2416)
 
 ---
 
