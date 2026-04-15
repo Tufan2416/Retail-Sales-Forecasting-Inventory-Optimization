@@ -323,7 +323,7 @@ After building this project, you will understand:
 
 **Tufan Chowdhury**  
 📧 chowdhuryrudra449@gmail.com  
-🔗 [LinkedIn]((https://www.linkedin.com/in/tufan-chowdhury06/))  
+🔗 [LinkedIn](https://www.linkedin.com/in/tufan-chowdhury06/)  
 🐙 [GitHub](https://github.com/tufan2416)
 
 ---
