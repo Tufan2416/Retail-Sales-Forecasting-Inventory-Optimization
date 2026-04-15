@@ -1,0 +1,80 @@
+# ============================================================
+# .gitignore — Retail Sales Forecasting Project
+# ============================================================
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Data files (large — optional: keep sample data, ignore large raw)
+# data/raw_sales_data.csv   ← uncomment to ignore large raw file
+data/*.csv
+!data/.gitkeep
+
+# Model files (large binaries)
+models/*.pkl
+models/*.joblib
+!models/.gitkeep
+
+# Outputs (generated at runtime)
+outputs/*.csv
+!outputs/.gitkeep
+
+# But KEEP images for GitHub README
+# images/           ← do NOT ignore, we want charts visible
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+
+# Coverage / testing
+.coverage
+htmlcov/
+.pytest_cache/
